@@ -1,0 +1,30 @@
+{
+	"name": "gnw",
+	"version": "0.0.0",
+	"description": "Git server wrapper for Node.js",
+	"keywords": [
+		"git",
+		"server",
+		"wrapper"
+	],
+	"homepage": "https://github.com/CoulonAntoine/gnw#readme",
+	"bugs": {
+		"url": "https://github.com/CoulonAntoine/gnw/issues",
+		"email": "support@cln.ac"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "Antoine Coulon",
+		"url": "https://antoinecoulon.com/",
+		"email": "contact@cln.ac"
+	},
+	"main": "main.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/CoulonAntoine/gnw"
+	},
+	"os": [
+		"darwin",
+		"linux"
+	]
+}
